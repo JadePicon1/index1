@@ -1,0 +1,47 @@
+body {
+				background-color: #e7e7e7;
+}
+.IMAGEN1314 h1{
+				color: #fff;
+				background-color: #000c45;
+				margin: -8px;
+				padding: 10px;
+				height: 100px;
+				width: 100px 100px;
+}
+
+.IMAGEN1314 h3 {
+				color: #be9420;
+				margin: -50px 40px;
+}
+.marcas img {
+				width: 400px;
+				height: 100px;
+				border-radius: 510px;
+}
+.marcas h4 {
+				color: #fff;
+				margin: 30px 80px;
+				width: 100px;
+				background-color: #86867b;
+				letter-spacing: 2px;
+}
+
+.marcas a {
+				backgound: linear-gradient(transparent);
+}
+
+.texto span {
+				color: #1100ff;
+}
+
+.texto img {
+				width: 300px;
+				height: 300px;
+				margin: -0px 50px;
+}
+
+.color2 img {
+				width: 300px;
+				height: 500px;
+}
